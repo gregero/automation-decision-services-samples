@@ -4,7 +4,7 @@
 
 This tutorial shows you how to use a machine learning model in a decision project that validates loans. The project uses a decision model to apply policies and incorporate a risk prediction.
 
-In IBM Automation Decision Services, you can create predictive models and use them in decision projects. A predictive model can combine machine learning and data from your company's past decisions to determine the possible results of new decisions.  
+In IBM Automation Decision Services, a component of Cloud Pak for Automation, you can create predictive models and use them in decision projects. A predictive model can combine machine learning and data from your company's past decisions to determine the possible results of new decisions.  
 
 Each decision project has at least one decision model to map a process for applying policies and data to produce a business decision. By adding a predictive model to a decision model, you can produce more accurate and comprehensive business decisions. 
 
